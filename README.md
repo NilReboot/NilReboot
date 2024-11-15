@@ -1,16 +1,51 @@
-## Hi there 👋
+## Hi, I'm @NilReboot! 👋
 
-<!--
-**NilReboot/NilReboot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src="https://www.therevolverclub.com/cdn/shop/articles/My_project-1_82ea3a15-2a62-464b-b44b-590738e28dcc.png?v=1685435671&width=1200" width="250">
 
-Here are some ideas to get you started:
+[![GitHub NilReboot](https://img.shields.io/github/followers/NilReboot?label=follow&style=social)](https://github.com/NilReboot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Who am I:
+
+- 👨‍💻 Data Engineer
+- 🐍 Code Hobbyist
+- 🛡️ Cybersecurity Enthusiast
+- 🌱 Currently learning about Cloud Services
+
+
+<br/>
+
+--- 
+### A little more about me...  
+
+
+```xml
+<NilReboot>
+    <pronouns>he | him</pronouns>
+    <code>
+        <language>SQL</language>
+        <language>Python</language>
+        <language>HTML</language>
+        <language>CSS</language>
+        <language>Javascript</language>
+    </code>
+    <hobbies>
+        <tech>Home Automation</tech>
+        <tech>Cybersecurity CTFs</tech>
+        <tech>Prompt Engineering</tech>
+        <art>Music</art>
+        <art>Movies</art>
+        <fun>Theme Parks</fun>
+        <fun>ARGs</fun>
+        <gaming>FPSs</gaming>
+        <gaming>Puzzle-based</gaming>
+    </hobbies>
+    <challenge>AdventofCode 2024</challenge>
+    <challenge>AdventofCyber 2024</challenge>
+</NilReboot>
+```
+[![GitHub NilReboot](https://img.shields.io/github/followers/NilReboot?label=follow&style=social)](https://github.com/NilReboot)
+<BR>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1534827" style='border:none;'></iframe>
+<BR>
+
+---
