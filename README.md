@@ -43,9 +43,6 @@
     <challenge>AdventofCyber 2024</challenge>
 </NilReboot>
 ```
-[![GitHub NilReboot](https://img.shields.io/github/followers/NilReboot?label=follow&style=social)](https://github.com/NilReboot)
-<BR>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1534827" style='border:none;'></iframe>
-<BR>
+<br/>
 
 ---
