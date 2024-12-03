@@ -15,6 +15,7 @@ jobs:
         with:
           userId: 2735709
           sessionCookie: ${{ secrets.AOC_SESSION }}
+          headerPrefix: '###'
       - uses: stefanzweifel/git-auto-commit-action@v5 # use v5
         with:
           commit_message: Update README stars
