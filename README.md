@@ -47,8 +47,10 @@
 
 ---
 
+## AdventofCode
+
 <!--- advent_readme_stars table --->
-## 2024 Results
+### 2024 Results
 
 | Day | Part 1 | Part 2 |
 | :---: | :---: | :---: |
