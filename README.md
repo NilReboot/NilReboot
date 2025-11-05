@@ -9,7 +9,7 @@
 - 👨‍💻 Data Engineer
 - 🐍 Code Hobbyist
 - 🛡️ Cybersecurity Enthusiast
-- 🌱 Currently learning about Cloud Services
+- 🌱 Currently learning about Cloud Services, Terraform, and AI Engineering
 
 
 <br/>
@@ -27,6 +27,7 @@
         <language>HTML</language>
         <language>CSS</language>
         <language>Javascript</language>
+        <language>Terraform</language>
     </code>
     <hobbies>
         <tech>Home Automation</tech>
@@ -39,24 +40,12 @@
         <gaming>FPSs</gaming>
         <gaming>Puzzle-based</gaming>
     </hobbies>
-    <challenge>AdventofCode 2024</challenge>
-    <challenge>AdventofCyber 2024</challenge>
+    <challenge>Disney CyberSecurity CTF 2025 Top 15 Team for 'Champion League' - Shadow IT</challenge>
+    <challenge>Disney CyberSecurity CTF 2024 Top 10 Team - Shadow IT</challenge>
+    <challenge>Disney CyberSecurity CTF 2023 Top 20 Team - Shadow IT</challenge>
 </NilReboot>
 ```
 <br/>
 
 ---
 
-## AdventofCode
-
-<!--- advent_readme_stars table --->
-### 2024 Results
-
-| Day | Part 1 | Part 2 |
-| :---: | :---: | :---: |
-| [Day 1](https://adventofcode.com/2024/day/1) | ⭐ | ⭐ |
-| [Day 2](https://adventofcode.com/2024/day/2) | ⭐ | ⭐ |
-| [Day 3](https://adventofcode.com/2024/day/3) | ⭐ | ⭐ |
-| [Day 4](https://adventofcode.com/2024/day/4) | ⭐ |   |
-| [Day 6](https://adventofcode.com/2024/day/6) | ⭐ |   |
-<!--- advent_readme_stars table --->
